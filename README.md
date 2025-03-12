@@ -126,7 +126,7 @@ Software Engineer. Experienced Java Developer and Cybersecurity Specialist with 
   <br><br>
   <img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer - Associate"/>
   <br><br>
-  <img src="https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_11_Developer-red?style=for-the-badge&logo=oracle&logoColor=white" alt="Software Engineer"/>
+<img src="https://img.shields.io/badge/Software_Engineer-Java_&_Cybersecurity-blue?style=for-the-badge&logo=java&logoColor=white" alt="Software Engineer"/>
 </div>
 
 </div>
