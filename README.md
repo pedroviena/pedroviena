@@ -118,6 +118,8 @@ Software Engineer. Experienced Java Developer and Cybersecurity Specialist with 
 ## 🏆 Professional Certifications in progress
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Graduation-Software_Engineer-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Graduation Software Engineer"/>
+    <br><br>
   <img src="https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_11_Developer-red?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Professional: Java SE 11 Developer"/>
   <br><br>
   <img src="https://img.shields.io/badge/Certified_Ethical_Hacker-CEH-brightgreen?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Certified Ethical Hacker (CEH)"/>
@@ -126,7 +128,7 @@ Software Engineer. Experienced Java Developer and Cybersecurity Specialist with 
   <br><br>
   <img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer - Associate"/>
   <br><br>
-<img src="https://img.shields.io/badge/Graduation-Software_Engineer-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Graduation Software Engineer"/>
+
 </div>
 
 </div>
