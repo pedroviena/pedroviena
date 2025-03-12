@@ -125,6 +125,8 @@ Software Engineer. Experienced Java Developer and Cybersecurity Specialist with 
   <img src="https://img.shields.io/badge/Spring_Framework-Certified_Professional-green?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework Certified Professional"/>
   <br><br>
   <img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer - Associate"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/Graduation?style=for-the-badge&logo=university&logoColor=white" alt="Software Engineer"/>
 </div>
 
 </div>
