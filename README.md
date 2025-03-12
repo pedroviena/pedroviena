@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Pedro+Arian+Viena;Java+Developer+%26+Security+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Pedro+Arian+Viena;Software+Engineer" alt="Typing SVG" />
   
   <p>
     <a href="https://www.linkedin.com/in/pedroarianviena"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -17,7 +17,7 @@
 
 ## 📋 About Me
 
-Experienced Java Developer and Cybersecurity Specialist with a passion for building secure, robust enterprise applications. Specialized in Java backend development with Spring Framework, microservices architecture, and application security. Committed to implementing secure coding practices, vulnerability assessment, and continuous security integration in the development lifecycle.
+Software Engineer. Experienced Java Developer and Cybersecurity Specialist with a passion for building secure, robust enterprise applications. Specialized in Java backend development with Spring Framework, microservices architecture, and application security. Committed to implementing secure coding practices, vulnerability assessment, and continuous security integration in the development lifecycle.
 
 ## 🔧 Technical Expertise
 
@@ -115,7 +115,7 @@ Experienced Java Developer and Cybersecurity Specialist with a passion for build
   </div>
 </div>
 
-## 🏆 Professional Certifications
+## 🏆 Professional Certifications in progress
 
 <div align="center">
   <img src="https://img.shields.io/badge/Oracle_Certified_Professional-Java_SE_11_Developer-red?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Professional: Java SE 11 Developer"/>
@@ -127,18 +127,4 @@ Experienced Java Developer and Cybersecurity Specialist with a passion for build
   <img src="https://img.shields.io/badge/AWS_Certified-Developer_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer - Associate"/>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedroviena&theme=nord&column=7" alt="trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedroviena&theme=github-dark-blue" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/pedroviena/pedroviena/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
