@@ -1,5 +1,5 @@
 # 🧪 About Me  
-QA Engineer (SDET) with experience in **test automation for APIs and microservices**, **CI/CD pipelines**, and **containerized environments (Docker/Testcontainers)**.  
+Software Engineer with experience in **test automation for APIs and microservices**, **CI/CD pipelines**, and **containerized environments (Docker/Testcontainers)**.  
 Strong background in **Java + RestAssured + Cucumber** for functional and contract testing, plus experience with **JMeter, OWASP ZAP, and AWS integrations** to ensure performance, security, and quality.  
 
 My goal is to **build robust test frameworks** that increase software reliability, reduce production risks, and accelerate value delivery for engineering teams.  
