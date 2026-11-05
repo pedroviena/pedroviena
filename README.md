@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Pedro Viena
 
 **IT Support Analyst (L1/L2) focused on infrastructure, networking, and automation.**
 I come from a back-end development and test automation background (Java, APIs, CI/CD) and I'm building a strong foundation in operations: Active Directory, networking, Linux, monitoring, and cloud.
