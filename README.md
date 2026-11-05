@@ -1,56 +1,51 @@
-# 🧪 About Me  
-Software Engineer with experience in **test automation for APIs and microservices**, **CI/CD pipelines**, and **containerized environments (Docker/Testcontainers)**.  
-Strong background in **Java + RestAssured + Cucumber** for functional and contract testing, plus experience with **JMeter, OWASP ZAP, and AWS integrations** to ensure performance, security, and quality.  
+# 👋 Hi, I'm [Your Name]
 
-My goal is to **build robust test frameworks** that increase software reliability, reduce production risks, and accelerate value delivery for engineering teams.  
+**IT Support Analyst (L1/L2) focused on infrastructure, networking, and automation.**
+I come from a back-end development and test automation background (Java, APIs, CI/CD) and I'm building a strong foundation in operations: Active Directory, networking, Linux, monitoring, and cloud.
 
----
+I like finding the root cause, documenting what I fixed, and automating whatever is repetitive.
 
-# 🔧 Technical Expertise  
+## 🖥️ Infrastructure Lab (hands-on projects)
 
-- **Languages & Scripting:** Java, SQL, Bash, Gherkin  
-- **Test Automation:** RestAssured, JUnit5, TestNG, Cucumber, Cypress, Playwright  
-- **Performance & Security Testing:** Apache JMeter, OWASP ZAP, SonarQube  
-- **APIs & Microservices:** REST, GraphQL, Swagger/OpenAPI, Kafka  
-- **DevOps & CI/CD:** Jenkins, GitHub Actions, Docker, Testcontainers, Kubernetes  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Cloud:** AWS (S3, EC2, ECS)  
-- **Reports & Best Practices:** Allure Reports, Page Object Model (POM), Test Pyramid  
+I built a corporate-style environment in a lab and documented real troubleshooting scenarios (symptom → hypothesis → test → root cause → fix → prevention).
 
----
+| Project | What I did |
+|---|---|
+| [Corporate environment with AD](link) | Windows Server, AD DS, DNS, DHCP, OUs, GPOs, NTFS permissions, bulk user creation with PowerShell |
+| [Network troubleshooting](link) | DNS/DHCP diagnosis, packet analysis with Wireshark, VPN and RDP |
+| [Linux and databases](link) | PostgreSQL service broken and fixed via `journalctl`, file permissions, remote access |
+| [Monitoring, backup, and deployment](link) | Zabbix, snapshots and restore, standard image with Sysprep |
+| [Microsoft 365 and security](link) | Entra ID, MFA, Conditional Access, phishing response |
+| [Daily L1/L2 support](link) | Printers, slow PCs, hardware, ticketing with SLA in GLPI |
 
-# 🚀 Featured Projects  
+## 🔧 Skills
 
-### 🔹 Advanced API Testing  
-End-to-end test automation framework for REST APIs using **Java + RestAssured + JUnit5**, with **PostgreSQL integration**, **Allure reports**, and a fully automated **GitHub Actions CI/CD pipeline**.  
-📌 *Stack:* Java, RestAssured, JUnit5, Allure, PostgreSQL, GitHub Actions  
+- **Systems:** Windows Server, Active Directory, Group Policy, Linux (systemctl, journalctl, permissions)
+- **Networking:** TCP/IP, DNS, DHCP, VPN, Wireshark, diagnostics (ping, tracert, nslookup, netstat)
+- **Cloud & DevOps:** AWS (S3, EC2, ECS), Docker, Jenkins, GitHub Actions
+- **Automation:** PowerShell, Bash, Java
+- **Monitoring:** Zabbix
+- **Databases:** PostgreSQL, MySQL, MongoDB, SQL
+- **Microsoft 365:** Entra ID, Exchange Online, Conditional Access
+- **Processes:** ITIL, GLPI, Jira, SLA, technical documentation
 
----
+## 🚀 Automation & CI/CD Background
 
-### 🔹 UI/E2E Testing with Cypress & Playwright  
-Automated critical user flows (login, checkout) using **Page Object Model architecture**, with **cross-browser execution** and CI pipeline integration.  
-📌 *Stack:* Cypress, Playwright, POM, GitHub Actions  
+Projects from my time in software development and quality engineering:
 
----
+- **[Advanced API Testing](link)**: API test framework with Java, RestAssured, and JUnit5, PostgreSQL integration, Allure reports, and a GitHub Actions pipeline
+- **[UI/E2E Testing with Cypress & Playwright](link)**: critical user flows automated with Page Object Model and CI execution
+- **[Microservices Performance & Security](link)**: load testing with JMeter and vulnerability scanning with OWASP ZAP
+- **[Modular Test Framework](link)**: Java, Jenkins, and Docker/Testcontainers with containerized execution
 
-### 🔹 Microservices Performance & Security  
-Conducted load and stress testing with **JMeter**, API vulnerability scanning with **OWASP ZAP**, and automated event handling with **Kafka + AWS S3**.  
-📌 *Stack:* JMeter, ZAP, Kafka, AWS S3  
+## 🎓 Education & Courses
 
----
+- B.Sc. in Software Engineering (in progress)
+- Linux Security
+- Network Defense
+- Oracle Cloud Infrastructure Foundations 2025
+- Generative AI, Oracle Next Education (ONE)
 
-### 🔹 Modular Test Framework for Microservices  
-Scalable test automation framework in **Java + Allure + Jenkins**, designed with modular structure for code reusability, CI integration, and containerized execution using **Testcontainers**.  
-📌 *Stack:* Java, JUnit5, Allure, Jenkins, Docker, Testcontainers  
+## 📫 Contact
 
----
-
-# 🏆 Certifications & Education  
-
-🎓 B.Sc. in Software Engineering (in progress)  
-✅ Linux Security  
-✅ Network Defense  
-✅ Oracle Cloud Infrastructure Foundations 2025  
-✅ Generative AI – ONE (Oracle Next Education)  
-
----
+[LinkedIn](link) · [Email](mailto:you@email.com)
